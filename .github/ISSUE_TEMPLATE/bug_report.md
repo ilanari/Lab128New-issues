@@ -22,5 +22,5 @@ assignees: ''
 
 ### Attachments
 
-Use **Help › Report a Bug** in Lab128Next: it creates a `.zip` with the screenshot, logs and versions (names of databases,
+Use **Help › Report a Bug** in Lab128Next: it creates a `.zip` with the logs and versions (names of databases,
 hosts and users hidden). Drag the `.zip` into this box.
